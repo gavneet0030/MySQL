@@ -633,9 +633,7 @@ This explanation shows that you not only know how to write SQL, but also **how M
 
 ---
 
-### 💡 Placement in README
 
-Place this section **after the flowchart image** in your `README.md`:
 
 
 
