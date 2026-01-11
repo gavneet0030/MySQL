@@ -1,4 +1,4 @@
-<h1 align="center">🗄️ MySQL & SQL Practice</h1>
+<h1 align="center">🗄️ MySQL Practice</h1>
 
 <h3 align="center">
 Relational Database Design • SQL Querying • Data Retrieval
